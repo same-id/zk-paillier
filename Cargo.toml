@@ -32,7 +32,7 @@ default-features = false
 
 [dependencies.paillier]
 package = "kzen-paillier"
-version = "0.4"
+git = "https://github.com/KZen-networks/rust-paillier"
 default-features = false
 
 [dev-dependencies]
